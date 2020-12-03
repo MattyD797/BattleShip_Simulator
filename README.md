@@ -1,5 +1,8 @@
 # BattleShip_Simulator
 ### Version 1.0.0
+
+![alt text](https://github.com/mtduggan/BattleShip_Simulator/blob/main/Output/Display.PNG "Beginning Display of the Simulator")
+
 ## Design Overview
 The Battleship simulator mimics the open ocean in a ten by ten grid. Two generic teams (blue and green) face off against each other with each team starting with 5 ships. Each round of the simulation mimics 1 day out in the ocean and on each day, you may fire the cannons. Each ship only has one cannon, so if a ship sinks, you also lose a cannon.
 
